@@ -73,6 +73,14 @@ Demonstrates how to use the navigation bar widget.
 just run nav-context
 ```
 
+## `nav-context-dnd`
+
+Demonstrates how to use the Drag-and-Drop (DND) navigation bar 
+
+```sh
+just run nav-context-dnd
+```
+
 ## `open-dialog`
 
 Demonstrates how to create an open file dialog
